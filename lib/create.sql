@@ -4,4 +4,3 @@ CREATE TABLE students
     grade INTEGER,
     gpa FLOAT,
     tardies INTEGER);
-
